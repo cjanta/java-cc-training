@@ -1,0 +1,13 @@
+Eine Bücherei hat eine Datenbank und möchte nun ein KonsolenProgramm um den Betriebsablauf zu Simmulieren. Die Bücher dieser Bücherei Kosten kein Geld. Gebraucht ist eine Verwaltung die von den Entitäten (Kunden) Aufgerufen werden kann.
+
+Kunden können Bücher Leihen und zurückgeben. Das Datenbankverwaltungssystem soll festhalten welche Kunden welche Bücher derzeit geliehen haben und diese Information aktualisieren wenn der Kunde das Buch zurückgibt.
+
+Kunde -uses-> DatenBankVerwaltung -uses-> DatenBank
+
+
+Erstelle hierfür ein Konzept und ein Programm 
+1. Erstelle eine Anwendungsfalldiagramm
+2. Erstelle ein Aktivitätsdiagramm
+3. erstelle ein Klassendiagramm
+4. Setze das Klassendiagramm in Java um
+5. Erstelle ein Testprogramm in Java welches das Leihen und Zurückgeben von Mindestens 2 Kunden In der Konsole ausgibt

@@ -1,0 +1,102 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Aufgaben_For",
+            "request": "launch",
+            "mainClass": "_130_160.Aufgaben.Aufgaben_For",
+            "projectName": "java-cc-training_4c52f13a"
+        },
+        {
+            "type": "java",
+            "name": "_030_DoppelgaengerEntfernen",
+            "request": "launch",
+            "mainClass": "_210_260._030_DoppelgaengerEntfernen",
+            "projectName": "java-cc-training_4c52f13a"
+        },
+        {
+            "type": "java",
+            "name": "_020_LottoZiehung",
+            "request": "launch",
+            "mainClass": "_210_260._020_LottoZiehung",
+            "projectName": "java-cc-training_4c52f13a"
+        },
+        {
+            "type": "java",
+            "name": "_010_EinmaligesInList",
+            "request": "launch",
+            "mainClass": "_210_260._010_EinmaligesInList",
+            "projectName": "java-cc-training_4c52f13a"
+        },
+        {
+            "type": "java",
+            "name": "_090_Fibonacci",
+            "request": "launch",
+            "mainClass": "_130_160.Aufgaben._090_Fibonacci",
+            "projectName": "java-cc-training_4c52f13a"
+        },
+        {
+            "type": "java",
+            "name": "_080_KorrektesDatum",
+            "request": "launch",
+            "mainClass": "_130_160.Aufgaben._080_KorrektesDatum",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "_060_KleinesEinmaleins",
+            "request": "launch",
+            "mainClass": "_130_160.Aufgaben._060_KleinesEinmaleins",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "_050_Quadratzahlen",
+            "request": "launch",
+            "mainClass": "_130_160.Aufgaben._050_Quadratzahlen",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "_070_Fakultaet",
+            "request": "launch",
+            "mainClass": "_130_160.Aufgaben._070_Fakultaet",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "_040_KleinsteVonDreiUnterschiedlichenZahlen",
+            "request": "launch",
+            "mainClass": "_130_160.Aufgaben._040_KleinsteVonDreiUnterschiedlichenZahlen",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "_030_Begruessung",
+            "request": "launch",
+            "mainClass": "_130_160.Aufgaben._030_Begruessung",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "_020_Fakultaet",
+            "request": "launch",
+            "mainClass": "_010_080.Aufgaben._020_Fakultaet",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "_010_While_Aufgaben",
+            "request": "launch",
+            "mainClass": "_010_080.Aufgaben._010_While_Aufgaben",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch It!",
+            "request": "launch",
+            "mainClass": "${file}",
+            "console": "internalConsole"
+        }
+    ]
+}
