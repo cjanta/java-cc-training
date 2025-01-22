@@ -2,6 +2,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "_320_Frosch",
+            "request": "launch",
+            "mainClass": "bonusaufgaben._320_Frosch",
+            "projectName": "java-cc-training_4c52f13a"
+        },
+        {
+            "type": "java",
+            "name": "_290_Passwortqualitaet",
+            "request": "launch",
+            "mainClass": "bonusaufgaben._290_Passwortqualitaet",
+            "projectName": "java-cc-training_4c52f13a"
+        },
+        {
+            "type": "java",
+            "name": "_130_Doppelte",
+            "request": "launch",
+            "mainClass": "bonusaufgaben._130_Doppelte",
+            "projectName": "java-cc-training_4c52f13a"
+        },
+        {
+            "type": "java",
+            "name": "_050_ZeichenanzahlInString",
+            "request": "launch",
+            "mainClass": "bonusaufgaben._050_ZeichenanzahlInString",
+            "projectName": "java-cc-training_4c52f13a"
+        },
+        {
+            "type": "java",
+            "name": "_110_Nettopreis",
+            "request": "launch",
+            "mainClass": "_270_300.Aufgaben._110_Nettopreis",
+            "projectName": "java-cc-training_4c52f13a"
+        },
+        {
+            "type": "java",
             "name": "Aufgaben_For",
             "request": "launch",
             "mainClass": "_130_160.Aufgaben.Aufgaben_For",
